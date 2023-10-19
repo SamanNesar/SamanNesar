@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently Aspiring SDE
-- 🌱 I’m currently learning Python, DSA, Computer Fundamentals
+- 🌱 I’m currently learning Java, Python, SQL, DSA, Computer Fundamentals
 - 👯 I’m looking to collaborate on OpenSource
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about DSA, Python, Projects
